@@ -1,0 +1,18 @@
+  <option value="Ahmedabad" <?php if ($ct=="Ahmedabad") {
+                          echo "selected";
+                        } ?> >Ahmedabad</option>
+                          <option value="Ahmedabad" <?php if ($ct=="Ahmedabad") {
+                          echo "selected";
+                        } ?> >Ahmedabad</option>
+                          <option value="Ahmedabad" <?php if ($ct=="Ahmedabad") {
+                          echo "selected";
+                        } ?> >Ahmedabad</option>
+                          <option value="Ahmedabad" <?php if ($ct=="Ahmedabad") {
+                          echo "selected";
+                        } ?> >Ahmedabad</option>
+                          <option value="Ahmedabad" <?php if ($ct=="Ahmedabad") {
+                          echo "selected";
+                        } ?> >Ahmedabad</option>
+                          <option value="Ahmedabad" <?php if ($ct=="Ahmedabad") {
+                          echo "selected";
+                        } ?> >Ahmedabad</option>
